@@ -9,21 +9,18 @@ namespace ConsoleClassLibrary
     internal class QualityChild : Quality
     {
 
-        public double P { get; set; } // Переменная для условий погоды
+        public double P { get; set; } 
 
-        public static double Qp; // Переменная качество потомка
+        public static double Qp; 
 
        
-        // Конструктор класса потомка
+        
         public QualityChild(double p, double weidth, double lenght, double mass) : base(weidth, lenght, mass)
         {
             P = p;
         }
 
-        // Метод расчёта качества потомка
-        // Если P от 5 до 8, то Q * 1.1
-        // Если P = 3,4,9,10 то Q * 1.6
-        // Иначе 1.9 * Q
+        
         public virtual double pCalculation()
         {
             if(P >= 5 && P <= 8)
@@ -46,7 +43,7 @@ namespace ConsoleClassLibrary
             }
         }
 
-        // Метод вывода информации
+        
 
         public void CheckInfo()
         {
