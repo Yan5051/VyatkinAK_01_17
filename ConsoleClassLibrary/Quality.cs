@@ -2,12 +2,12 @@
 {
     public class Quality
     {
-        public static double Q; // Переменная для расчёта качества потомка
-        public double Weidth { get; set; } // Ширина дороги (м)
-        public double  Length { get; set; } // Длина (м)
-        public double Mass { get; set; } // Масса дорожного покрытия на 1 кв.м (кг)
+        public static double Q; 
+        public double Weidth { get; set; } 
+        public double  Length { get; set; } 
+        public double Mass { get; set; } 
 
-        //Конструтор класса Quality
+        
         public Quality (double weidth, double lenght, double mass)
         {
             Weidth = weidth;
@@ -15,16 +15,15 @@
             Mass = mass;
         }
 
-        // Метод расчёта качества объекта
-        // Расчитывается по формуле, ширина * длина * масса / 100
+        
 
         public virtual double qCalculation()
         {
-            Q = Weidth * Length * Mass / 100; // Расчёт
+            Q = Weidth * Length * Mass / 100; 
             return Q;
         }
 
-        // Метод вывода информации
+        
         public void CheckInfo()
         {
             Console.WriteLine($"Ширина дороги: {Weidth}");
