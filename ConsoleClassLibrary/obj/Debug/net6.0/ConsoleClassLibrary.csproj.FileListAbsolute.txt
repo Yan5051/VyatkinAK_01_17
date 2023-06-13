@@ -1,0 +1,12 @@
+C:\Users\307-04\Desktop\Дэм экзамен\ConsoleClassLibrary\bin\Debug\net6.0\ConsoleClassLibrary.deps.json
+C:\Users\307-04\Desktop\Дэм экзамен\ConsoleClassLibrary\bin\Debug\net6.0\ConsoleClassLibrary.dll
+C:\Users\307-04\Desktop\Дэм экзамен\ConsoleClassLibrary\bin\Debug\net6.0\ConsoleClassLibrary.pdb
+C:\Users\307-04\Desktop\Дэм экзамен\ConsoleClassLibrary\obj\Debug\net6.0\ConsoleClassLibrary.csproj.AssemblyReference.cache
+C:\Users\307-04\Desktop\Дэм экзамен\ConsoleClassLibrary\obj\Debug\net6.0\ConsoleClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-04\Desktop\Дэм экзамен\ConsoleClassLibrary\obj\Debug\net6.0\ConsoleClassLibrary.AssemblyInfoInputs.cache
+C:\Users\307-04\Desktop\Дэм экзамен\ConsoleClassLibrary\obj\Debug\net6.0\ConsoleClassLibrary.AssemblyInfo.cs
+C:\Users\307-04\Desktop\Дэм экзамен\ConsoleClassLibrary\obj\Debug\net6.0\ConsoleClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\307-04\Desktop\Дэм экзамен\ConsoleClassLibrary\obj\Debug\net6.0\ConsoleClassLibrary.dll
+C:\Users\307-04\Desktop\Дэм экзамен\ConsoleClassLibrary\obj\Debug\net6.0\refint\ConsoleClassLibrary.dll
+C:\Users\307-04\Desktop\Дэм экзамен\ConsoleClassLibrary\obj\Debug\net6.0\ConsoleClassLibrary.pdb
+C:\Users\307-04\Desktop\Дэм экзамен\ConsoleClassLibrary\obj\Debug\net6.0\ref\ConsoleClassLibrary.dll
